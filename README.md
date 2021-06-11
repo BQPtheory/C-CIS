@@ -1,7 +1,7 @@
 <!-- BQPTheory-->
 
 <h1 align="center">
-  「CCIS | Certification - Cyber Intelligence Specialist - Tools」
+  「CCIS - Cyber Intelligence Specialist - Tools」
 </h1>
 
   
