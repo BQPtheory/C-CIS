@@ -1,7 +1,7 @@
 <!-- BQPTheory-->
 
 <h1 align="center">
-  「CCIS - Cyber Intelligence Specialist - Tools」
+  「CCIS | Certification - Cyber Intelligence Specialist - Tools」
 </h1>
 
   
@@ -14,7 +14,7 @@
 -  
 -   
 
-Disciplias dentro de ciberinteligencia: 
+Disciplinas dentro de ciberinteligencia: 
 
 - [SOCMINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#socmint-tools)
 - [OSINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#osint-tools)
