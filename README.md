@@ -16,18 +16,19 @@
 
 Disciplias dentro de ciberinteligencia: 
 
-- [SOCMINT](https://github.com/sn0b4ll)
-- [OSINT](https://github.com/sn0b4ll)
-- [CIBERINT](https://github.com/sn0b4ll)
-- [IMINT](https://github.com/sn0b4ll)
-- [TECHINT](https://github.com/sn0b4ll)
-- [MEDINT](https://github.com/sn0b4ll)
-- [GEOINT](https://github.com/sn0b4ll)
-- [HUMINT](https://github.com/sn0b4ll)
-- [MASINT](https://github.com/sn0b4ll)
-- [ACINT](https://github.com/sn0b4ll)
-- [RADINT](https://github.com/sn0b4ll)
-- [SIGINT](https://github.com/sn0b4ll)
+- [SOCMINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#socmint-tools)
+- [OSINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#osint-tools)
+- [CIBERINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#ciberint-tools)
+- [IMINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#imint-tools)
+- [TECHINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#techint-tools)
+- [MEDINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#medint-tools)
+- [GEOINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#geoint-tools)
+- [HUMINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#humint-tools)
+- [MASINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#masint-tools)
+- [ACINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#acint-tools)
+- [RADINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#radint-tools)
+- [SIGINT](https://github.com/BQPTheroy/CCIS/blob/main/README.md#sigint-tools)
+
 
 
 <hr>
