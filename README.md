@@ -1,5 +1,11 @@
 # CCIS - Cyber Intelligence Specialist - Tools
 
+Este repositorio esta creado para las herramientas de las disciplinas, que se utilizan dentro de ciberinteligencia.
+
+
+
+
+
 ### SOCMINT Tools
 
 ### OSINT Tools
