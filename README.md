@@ -91,7 +91,7 @@ Colección de herramientas para SIGINT.
 
 ### Collaborators
 
-- [BQPTheory(Israel Garcia)](https://github.com/BQPTheroy)
+- [BQPTheory - Israel García.](https://github.com/BQPTheroy)
 
 
 
