@@ -48,49 +48,85 @@ Disciplinas dentro de ciberinteligencia:
 
 Colección de herramientas para SOCMINT.
 
+- Software:
+- Hardware:
+
 ### OSINT Tools
 
 Colección de herramientas para OSINT.
+
+- Software:
+- Hardware:
 
 ### CIBERINT Tools
 
 Colección de herramientas para CIBERINT.
 
+- Software:
+- Hardware:
+
 ### IMINT Tools
 
 Colección de herramientas para IMINT.
+
+- Software:
+- Hardware:
 
 ### TECHINT Tools
 
 Colección de herramientas para TECHINT.
 
+- Software:
+- Hardware:
+
 ### MEDINT Tools
 
 Colección de herramientas para MEDINT.
+
+- Software:
+- Hardware:
 
 ### GEOINT Tools
 
 Colección de herramientas para GEOINT.
 
+- Software:
+- Hardware:
+
 ### HUMINT Tools
 
 Colección de herramientas para HUMINT.
+
+- Software:
+- Hardware:
 
 ### MASINT Tools
 
 Colección de herramientas para MASINT.
 
+- Software:
+- Hardware:
+
 ### ACINT Tools
 
 Colección de herramientas para ACINT.
+
+- Software:
+- Hardware:
 
 ### RADINT Tools
 
 Colección de herramientas para RADINT.
 
+- Software:
+- Hardware:
+
 ### SIGINT Tools
 
 Colección de herramientas para SIGINT.
+
+- Software:
+- Hardware:
 
 <hr>
 
