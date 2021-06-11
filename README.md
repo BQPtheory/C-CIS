@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/BQPTheroy/CCIS/tree/main/Images-CCIS">
-    <img src="Images-CCIS/CCIS.png" alt="Logo" width="900" height="450">
+    <img src="Images-CCIS/C-CIS.png" alt="Logo" width="750" height="200">
   </a>
 </p>
 
