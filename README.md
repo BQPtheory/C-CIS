@@ -7,7 +7,7 @@
 <h4 align="center">
 </h4>  
 
-<p align="center"> Desarrollado para la certificación de C-CIS de la empresa TPX MX </p>
+<p align="center"> Desarrollado para la certificación de C-CIS de la empresa TPX MX. </p>
 
   
 - Este repositorio esta creado para las herramientas de las disciplinas, que se utilizan dentro de ciberinteligencia.
