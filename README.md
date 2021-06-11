@@ -8,7 +8,7 @@
 
 
 <h1 align="center">
-  「CCIS - Cyber Intelligence Specialist - Tools」
+  「C-CIS - Cyber Intelligence Specialist - Tools」
 </h1>
 
 <h4 align="center">
