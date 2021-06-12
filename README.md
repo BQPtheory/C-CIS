@@ -23,8 +23,8 @@
   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 </h3>
 
-- Text. 
-- Text.  
+<p align="justify">  - Este repositorio tiene la finalidad de recolectar una gran cantidad de herramientas para cada una de las complejas disciplinas, que se utilizan en el área de CIBERINT o Ciberinteligencia. Recopilando herramientas privadas de empresas que brindan servicios y herramientas creadas por investigadores en Ciberseguridad y Ciberinteligencia de Software libre y Código abierto, con la finalidad de tener herramientas modernas, avanzadas para el uso de los futuros profesionales y investigadores de CIBERINT. </p>
+ 
 
 Disciplinas dentro de ciberinteligencia: 
 
@@ -140,6 +140,7 @@ Colección de herramientas para SIGINT.
 ### Collaborators
 
 - [BQPTheory - Israel García.](https://github.com/BQPTheroy)
+
 
 
 
