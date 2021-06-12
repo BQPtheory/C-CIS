@@ -21,7 +21,7 @@
 - This repository is created for the tools of the disciplines, which are used within cyber intelligence.
 - Cyber Intelligence Specialist, [(C-CIS).](https://tpx.mx/entrenamiento/c-cis)
 <h3 align="center"> 
-  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 </h3>
 
 <p align="justify">  - Este repositorio tiene la finalidad de recolectar una gran cantidad de herramientas para cada una de las complejas disciplinas, que se utilizan en el área de CIBERINT o Ciberinteligencia. Recopilando herramientas privadas de empresas que brindan servicios y herramientas creadas por investigadores en Ciberseguridad y Ciberinteligencia de Software libre y Código abierto, con la finalidad de tener herramientas modernas, avanzadas para el uso de los futuros profesionales y investigadores de CIBERINT. </p>
