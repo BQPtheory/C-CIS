@@ -45,10 +45,13 @@ Disciplinas dentro de ciberinteligencia:
 
 <hr>
 
+<p align="center">
+  <a href="https://github.com/BQPTheroy/CCIS/tree/main/Images-CCIS">
+    <img src="Images-CCIS/Avanzado_CBERINT.jpg" alt="Logo" width="1050" height="500">
+  </a>
+</p>
 
-<br>
-<br>
-<br>
+<hr>
 
 
 ### SOCMINT Tools
